@@ -2,6 +2,7 @@ import Footer from "./components/Footer"
 import Hero from "./components/Hero"
 import HowToBuy from "./components/HowToBuy"
 import Navbar from "./components/Navbar"
+import './App.css'
 
 function App() {
 
